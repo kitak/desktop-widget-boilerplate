@@ -20,6 +20,8 @@ app.on('ready', function () {
   mainWindow = new BrowserWindow({
     width: 300,
     height: 400,
+    x: size.width - 300,
+    y: 0,
     resizable: false,
     transparent: false,
     frame: false
