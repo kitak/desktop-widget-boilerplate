@@ -1,6 +1,6 @@
 # desktop-widget-boilerplate
 
-This is boilerplate for desktop widget by electron.
+This is desktop widget boilerplate by electron.
 
 ## install and run
 
